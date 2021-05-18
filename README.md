@@ -12,7 +12,7 @@ sarb_target_data.csv is the target
 
 You can modify the notebook locally and point to whereever you have downloaded these two files.
 
-The original data was sourced from https://wwwrs.resbank.co.za/webindicators/EconFinDataForSA.aspx
+The original data was sourced from https://www.resbank.co.za/en/home/what-we-do/statistics/releases/economic-and-financial-data-for-south-africa
 
 
 
